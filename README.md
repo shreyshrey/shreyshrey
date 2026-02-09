@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Shreya and I am an ML engineer.
+- 👋 Hi, I’m Shreya and I am an AI engineer.
 - 👀 I’m interested in AI/ML/Data science as well as computer vision
-- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on any projects that 
 - 📫 you reach me by vashistshreya7@gmail.com
 
